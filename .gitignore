@@ -1,0 +1,10 @@
+# Pastas de Build e Cache
+[Bb]in/
+[Oo]bj/
+
+# Arquivos locais do Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
