@@ -29,6 +29,9 @@ Abaixo está a trilha de conhecimento percorrida, dividida por módulos:
    ```bash
    git clone [https://github.com/evertonldesouza/csharp-orientacao-a-objetos-alura.git](https://github.com/evertonldesouza/csharp-orientacao-a-objetos-alura.git)
    ```
+3. Navegue até a pasta do módulo desejado e abra o arquivo da Solução (.sln).
+
+4. Defina o projeto de inicialização e execute a aplicação.
 ---
 ## Autor
  
